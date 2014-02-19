@@ -1,0 +1,1 @@
+{"download": {"file9.txt": {"TTR": 300, "state": "valid", "version": 0, "LMT": 1382993307.832319, "mid": "9|2312"}}, "original": {"file1.txt": {"TTR": 300, "state": "valid", "version": 1, "LMT": 1382995918.6776507, "mid": "1|2232"}}}

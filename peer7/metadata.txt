@@ -1,0 +1,1 @@
+{"original": {"file7.txt": {"TTR": 300, "state": "valid", "version": 0, "LMT": 1382993189.4215462, "mid": "7|2292"}}}
